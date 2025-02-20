@@ -16,7 +16,7 @@ echo "   Submission Reminder App Environment Setup Tool    "
 echo "====================================================="
 echo
 
-# Ask for name to be used in the directory
+# Prompt the username
 while true; do
     echo -n "Please enter your name (no spaces or special characters): "
     read user_name
